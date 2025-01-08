@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>NHKラジオニュース</title>
+    <link>https://www.nhk.or.jp/radionews/</link>
+    <language>ja</language>
+    <copyright>NHK (Japan Broadcasting Corporation)</copyright>
+    <itunes:author>NHK (Japan Broadcasting Corporation)</itunes:author>
+    <description>NHKラジオニュースを、いつでもどこでもお聞きになれるサービスです。</description>
+    <itunes:category text="News &amp; Politics"/>
+    <itunes:image href="https://www.nhk.or.jp/s-media/img/F261_thumbnail.jpg"/>
+    <lastBuildDate>Wed, 08 Jan 2025 17:52:41 +0900</lastBuildDate>
+    <itunes:keywords>news, radio, nhk</itunes:keywords>
+    <itunes:owner>
+      <itunes:email>radio-podcast@nhk.jp</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:new-feed-url>https://www.nhk.or.jp/s-media/news/podcast/list/v1/all.xml</itunes:new-feed-url>
+    <item>
+      <title>01月08日 午後５時のNHKニュース</title>
+      <enclosure url="http://system/1f680fb4e8aa455282d94d78d260be29_64k_adjusted.mp3" length="2400528" type="audio/mp3"/>
+      <pubDate>Wed, 08 Jan 2025 17:05:00 +0900</pubDate>
+      <guid isPermaLink="false">1f680fb4e8aa455282d94d78d260be29</guid>
+      <description/>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
+      <title>01月08日 午後４時のNHKニュース</title>
+      <enclosure url="http://system/9235399274358fbc892eaa0441f81cf4_64k_adjusted.mp3" length="2400528" type="audio/mp3"/>
+      <pubDate>Wed, 08 Jan 2025 16:05:00 +0900</pubDate>
+      <guid isPermaLink="false">9235399274358fbc892eaa0441f81cf4</guid>
+      <description/>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
+      <title>01月08日 午後３時のNHKニュース</title>
+      <enclosure url="http://system/6f0ca4dee27235a51bed3abde473218a_64k_adjusted.mp3" length="2400528" type="audio/mp3"/>
+      <pubDate>Wed, 08 Jan 2025 15:05:00 +0900</pubDate>
+      <guid isPermaLink="false">6f0ca4dee27235a51bed3abde473218a</guid>
+      <description/>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
+      <title>01月08日 午後２時のNHKニュース</title>
+      <enclosure url="http://system/863cd41a4a5154cb900c5780dec5b79e_64k_adjusted.mp3" length="7173254" type="audio/mp3"/>
+      <pubDate>Wed, 08 Jan 2025 14:15:00 +0900</pubDate>
+      <guid isPermaLink="false">863cd41a4a5154cb900c5780dec5b79e</guid>
+      <description/>
+      <itunes:duration>00:14:56</itunes:duration>
+    </item>
+    <item>
+      <title>01月08日 午後１時のNHKニュース</title>
+      <enclosure url="http://system/2dd97835e15b5ab4acf2c6977d7108f4_64k_adjusted.mp3" length="2400528" type="audio/mp3"/>
+      <pubDate>Wed, 08 Jan 2025 13:05:00 +0900</pubDate>
+      <guid isPermaLink="false">2dd97835e15b5ab4acf2c6977d7108f4</guid>
+      <description/>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
+      <title>01月08日 正午のNHKニュース</title>
+      <enclosure url="http://system/0b2f92190833b0b41f2d351840b8e323_64k_adjusted.mp3" length="7200720" type="audio/mp3"/>
+      <pubDate>Wed, 08 Jan 2025 12:15:00 +0900</pubDate>
+      <guid isPermaLink="false">0b2f92190833b0b41f2d351840b8e323</guid>
+      <description>【主なニュース】▼日本海側中心に大雪見込み 10日にかけ交通影響など警戒を　▼石破首相 ノーベル平和賞の日本被団協と面会　▼トランプ氏 グリーンランドめぐり “デンマークに高い関税も”　など</description>
+      <itunes:duration>00:15:00</itunes:duration>
+    </item>
+    <item>
+      <title>01月08日 午前１１時のNHKニュース</title>
+      <enclosure url="http://system/9f66757f5f7bf25a872efd403c88128c_64k_adjusted.mp3" length="2400528" type="audio/mp3"/>
+      <pubDate>Wed, 08 Jan 2025 11:05:00 +0900</pubDate>
+      <guid isPermaLink="false">9f66757f5f7bf25a872efd403c88128c</guid>
+      <description/>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
+      <title>01月08日 午前１０時のNHKニュース</title>
+      <enclosure url="http://system/9a86a67dd55289b0bd575a2f0b1b9178_64k_adjusted.mp3" length="2400528" type="audio/mp3"/>
+      <pubDate>Wed, 08 Jan 2025 10:05:00 +0900</pubDate>
+      <guid isPermaLink="false">9a86a67dd55289b0bd575a2f0b1b9178</guid>
+      <description/>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
+      <title>01月08日 午前９時のNHKニュース</title>
+      <enclosure url="http://system/92a3f76cf3cf6504846c8d3254cdf356_64k_adjusted.mp3" length="2400528" type="audio/mp3"/>
+      <pubDate>Wed, 08 Jan 2025 09:05:00 +0900</pubDate>
+      <guid isPermaLink="false">92a3f76cf3cf6504846c8d3254cdf356</guid>
+      <description/>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
+      <title>01月08日 午前７時のNHKニュース</title>
+      <enclosure url="http://system/ceae89326de5b8c1e2548240bc0c898d_64k_adjusted.mp3" length="9600528" type="audio/mp3"/>
+      <pubDate>Wed, 08 Jan 2025 07:20:00 +0900</pubDate>
+      <guid isPermaLink="false">ceae89326de5b8c1e2548240bc0c898d</guid>
+      <description/>
+      <itunes:duration>00:20:00</itunes:duration>
+    </item>
+    <item>
+      <title>01月08日 午前０時のNHKニュース</title>
+      <enclosure url="http://system/2d25df489f86e2fced618da4bd7fc820_64k_adjusted.mp3" length="4800528" type="audio/mp3"/>
+      <pubDate>Wed, 08 Jan 2025 00:10:00 +0900</pubDate>
+      <guid isPermaLink="false">2d25df489f86e2fced618da4bd7fc820</guid>
+      <description/>
+      <itunes:duration>00:10:00</itunes:duration>
+    </item>
+    <item>
+      <title>01月07日 夜１１時のNHKニュース</title>
+      <enclosure url="http://system/8bf2be2c4ce25f4c7578548c84354fee_64k_adjusted.mp3" length="2400528" type="audio/mp3"/>
+      <pubDate>Tue, 07 Jan 2025 23:05:00 +0900</pubDate>
+      <guid isPermaLink="false">8bf2be2c4ce25f4c7578548c84354fee</guid>
+      <description/>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
+      <title>01月07日 夜１０時のNHKニュース（NHKジャーナル）</title>
+      <enclosure url="http://system/390137f18d5bb5e3d5da90412511e89d_64k_adjusted.mp3" length="26400720" type="audio/mp3"/>
+      <pubDate>Tue, 07 Jan 2025 22:55:00 +0900</pubDate>
+      <guid isPermaLink="false">390137f18d5bb5e3d5da90412511e89d</guid>
+      <description>◇日本製鉄　「買収計画諦めない」&#xD;
+◇ことしの経済は　経営トップに聞く&#xD;
+◇北朝鮮が極超音速ミサイル発射　日米は&#xD;
+◇相次ぐ住宅火災　命を守るには&#xD;
+◇大河ドラマ『べらぼう』インタビュー ～主演・横浜流星さんに聞く～&#xD;
+特集は大河ドラマ「べらぼう～蔦重栄華乃夢噺～」で主人公・蔦屋重三郎を演じる俳優・横浜流星さんのインタビュー。役にかける思いやリスナーへのメッセージをお届け。</description>
+      <itunes:duration>00:55:00</itunes:duration>
+    </item>
+    <item>
+      <title>01月07日 夜９時のNHKニュース</title>
+      <enclosure url="http://system/3f60847c5cea40d31c956510017bec97_64k_adjusted.mp3" length="2400528" type="audio/mp3"/>
+      <pubDate>Tue, 07 Jan 2025 21:05:00 +0900</pubDate>
+      <guid isPermaLink="false">3f60847c5cea40d31c956510017bec97</guid>
+      <description/>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
+      <title>01月07日 夜８時のNHKニュース</title>
+      <enclosure url="http://system/4e047801874a1fcbd42be2188f48e731_64k_adjusted.mp3" length="2400528" type="audio/mp3"/>
+      <pubDate>Tue, 07 Jan 2025 20:05:00 +0900</pubDate>
+      <guid isPermaLink="false">4e047801874a1fcbd42be2188f48e731</guid>
+      <description/>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
+      <title>01月07日 夜７時のNHKニュース</title>
+      <enclosure url="http://system/0de3bcb30d7ccb3c32ab1d2848beab36_64k_adjusted.mp3" length="14316230" type="audio/mp3"/>
+      <pubDate>Tue, 07 Jan 2025 19:30:00 +0900</pubDate>
+      <guid isPermaLink="false">0de3bcb30d7ccb3c32ab1d2848beab36</guid>
+      <description>【主なニュース】▼日本海側を中心に大雪のおそれ 1月8日～10日にかけて警戒を　▼中国 チベット自治区で地震 95人死亡 家屋被害1000棟以上　▼シリア アサド政権崩壊まもなく1か月 現地で見えた希望と不安　など</description>
+      <itunes:duration>00:29:49</itunes:duration>
+    </item>
+  </channel>
+</rss>
